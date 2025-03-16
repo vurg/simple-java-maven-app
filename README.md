@@ -1,4 +1,10 @@
-# simple-java-maven-app
+# Using Jenkins Pipelines to Build, Test, Deploy a Java Maven App
+
+![Jenkins Pipeline Menu](images/Jenkins1.png)
+![Jenkins Pipeline Status](images/Jenkins2.png)
+![Jenkins Pipeline Status Continued](images/Jenkins3.png)
+![Jenkins Pipeline Stages](images/Jenkins4.png)
+![Jenkins Pipeline Console](images/Jenkins5.png)
 
 This repository is for the
 [Build a Java app with Maven](https://jenkins.io/doc/tutorials/build-a-java-app-with-maven/)
